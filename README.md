@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack development with Javascript**
 
-- 👨‍💻 All of my projects are available at [[Coming Soon]]([Coming Soon])
+- 👨‍💻 All of my projects are available at [Coming Soon]
 
 - 💬 Ask me about **Python, fastAPI, flask, Databases, Redis, Docker, Kafka**
 
